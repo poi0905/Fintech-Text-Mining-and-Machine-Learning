@@ -1,2 +1,2 @@
 # Fintech-Text-Mining-and-Machine-Learning
-NTU 2021 Spring
+國泰人壽題目一 Cathay Walker Plus 企業版推動案
