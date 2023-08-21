@@ -1,2 +1,2 @@
 # Fintech-Text-Mining-and-Machine-Learning
-國泰人壽題目一 Cathay Walker Plus 企業版推動案
+For the final project, in collaboration with Cathay Life Insurance, we contributed to the promotion of their upcoming product, Cathay Walker Plus. Our approach involved employing a web crawler to identify potential partnership industries and companies. This initiative included the entire launch strategy, encompassing comprehensive user and market research, captivating activities, and the estimation of event costs.
